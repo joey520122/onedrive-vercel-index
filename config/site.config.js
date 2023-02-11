@@ -55,6 +55,10 @@ module.exports = {
       name: 'GitHub',
       link: 'https://github.com/joey520122/',
     },
+    {
+      name: 'qq',
+      link: 'tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=280483255&website=www.oicqzone.com/',
+    },
   ],
 
   // This is a day.js-style datetime format string to format datetimes in the app. Ref to
